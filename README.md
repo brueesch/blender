@@ -3,4 +3,4 @@ blender
 
 Diverse Blender Projekte
 
-Video: http://youtu.be/0QT1GNMevfc?t=10m41s
+Video: https://www.youtube.com/watch?v=6Klw-vdrAVU
